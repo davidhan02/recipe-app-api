@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Arctaras LLC
+LABEL Arctaras LLC
 
 ENV PYTHONUNBUFFERED 1
 
